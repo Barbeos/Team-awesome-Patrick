@@ -10,7 +10,7 @@ public class AddToArrayList {
 	ArrayList<Alarm> alarms = new ArrayList<Alarm>();
 	
 	public void addToArrayList(){
-		
+		System.out.println();
 		LocalDate ld = LocalDate.of(1991, 10, 30);
 		LocalTime lt = LocalTime.of(2, 10);
 		
